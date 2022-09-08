@@ -3,4 +3,7 @@
 2. Есть собака 
 3. Учусь на тестировщика 
 4. У меня прекрасные дети
-using <https://photos.google.com/photo/AF1QipMPF576QdXLeLXzZpIRG1QTnvQ4Xb29NBFmRn9B>
+
+
+![image](https://user-images.githubusercontent.com/112328551/189126533-41d573f5-28e2-449e-a48f-6d71aec2ad11.png)
+
